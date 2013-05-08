@@ -1,0 +1,6 @@
+D:\KPK\H09CodeTuningAndOptimizations\CodeTuningAndOptimization\H02BasicMathTest\obj\Debug\H02BasicMathTest.csprojResolveAssemblyReference.cache
+D:\KPK\H09CodeTuningAndOptimizations\CodeTuningAndOptimization\H02BasicMathTest\bin\Debug\H02BasicMathTest.exe.config
+D:\KPK\H09CodeTuningAndOptimizations\CodeTuningAndOptimization\H02BasicMathTest\bin\Debug\H02BasicMathTest.exe
+D:\KPK\H09CodeTuningAndOptimizations\CodeTuningAndOptimization\H02BasicMathTest\bin\Debug\H02BasicMathTest.pdb
+D:\KPK\H09CodeTuningAndOptimizations\CodeTuningAndOptimization\H02BasicMathTest\obj\Debug\H02BasicMathTest.exe
+D:\KPK\H09CodeTuningAndOptimizations\CodeTuningAndOptimization\H02BasicMathTest\obj\Debug\H02BasicMathTest.pdb
